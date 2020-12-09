@@ -1,0 +1,11 @@
+Final_report
+	Final Project.pdf -> report
+	User's guide -> Brief description of how to use it
+
+videos
+	Explanation.mp4 -> Describing project
+	Culinary Assistant.mp4 -> 2 simulations
+
+To run our project open:
+	final_project.ttt
+	main_code.m
